@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D4D16AQFigIiS1e8BIA/profile-displaybackgroundimage-shrink_350_1400/0/1721332533261?e=1726704000&v=beta&t=trn_xXLkM_qJKnVbtmObpI56TR5nZU4z08Na0h2giDw)
+https://media.licdn.com/dms/image/D4D16AQFigIiS1e8BIA/profile-displaybackgroundimage-shrink_350_1400/0/1721332533261?e=1726704000&v=beta&t=trn_xXLkM_qJKnVbtmObpI56TR5nZU4z08Na0h2giDw
 <h1 align="center">Hi 👋, I'm Tuğçe Taşkın</h1>
 <h3 align="center">Backend developer. She also worked as a developer at DiyetYolunda and currently works as an assistant instructor at Acunmedya Academy, guiding people on their journey of learning software development.</h3>
 
